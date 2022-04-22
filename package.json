@@ -1,0 +1,23 @@
+{
+  "name": "coffees",
+  "version": "1.0.0",
+  "description": "",
+  "main": "coffees.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Donbazile07/coffees.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Donbazile07/coffees/issues"
+  },
+  "homepage": "https://github.com/Donbazile07/coffees#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.3"
+  }
+}
